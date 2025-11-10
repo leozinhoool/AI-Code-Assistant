@@ -2,6 +2,8 @@
 
 A real-time AI-powered code completion assistant using the Granite-4.0 model and WebGPU acceleration.
 
+![ai_code_assistant](https://github.com/user-attachments/assets/8869c4c6-1e57-4d77-95e7-bcad213bd7d3)
+
 ## Features
 
 - **Real-time Code Suggestions**: Get AI-powered code completions as you type
